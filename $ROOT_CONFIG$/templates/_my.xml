@@ -1,0 +1,14 @@
+<templateSet group="_my">
+  <template name="logger" value="private static final java.util.logging.Logger LOG = java.util.logging.Logger.getLogger($CURRENT_CLASS$.class.getName());" description="Declares a Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
+</templateSet>
