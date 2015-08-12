@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Eclipse code formatter info" displayType="NONE" shouldLog="false" />
+    <notification groupId="Error Report" displayType="NONE" />
   </component>
 </application>
