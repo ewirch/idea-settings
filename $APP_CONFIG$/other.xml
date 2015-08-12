@@ -21,29 +21,18 @@
             <id />
           </State>
           <State>
-            <id>Abstraction issuesJava</id>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Manifest</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>Spelling</id>
-          </State>
-          <State>
-            <id>XPath</id>
+            <id>JavaScript</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Ant inspections</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">

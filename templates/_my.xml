@@ -11,4 +11,11 @@
       <option name="COMPLETION" value="false" />
     </context>
   </template>
+  <template name="ifnnset" value="if ($getter$ != null) {&#10;&#9;$setter$($getter$);&#10;}" description="If not null Set" toReformat="false" toShortenFQNames="true">
+    <variable name="getter" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="setter" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
