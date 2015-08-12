@@ -11,6 +11,14 @@
           <option name="pathToConfigFileJava" value="C:/temp/Omikron_Eclipse_CodeFormatting.xml" />
           <option name="selectedJavaProfile" value="CommonCodingConvention_Omikron" />
         </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1439358911932" />
+          <option name="importOrder" value="java;javax;org;com;de" />
+          <option name="name" value="Omikron2" />
+          <option name="pathToConfigFileJava" value="C:/temp/Omikron_Eclipse_CodeFormatting.xml" />
+          <option name="selectedJavaProfile" value="CommonCodingConvention_Omikron" />
+        </Settings>
       </list>
     </option>
   </component>
