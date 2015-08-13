@@ -27,12 +27,20 @@
             <id>Data flow issuesJavaScript</id>
           </State>
           <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
             <id>Java</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>TestMethodWithoutAssertion</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
