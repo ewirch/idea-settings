@@ -210,7 +210,7 @@
     <option name="m_ignoreTestCases" value="true" />
     <option name="m_ignoreIgnoreParameter" value="true" />
   </inspection_tool>
-  <inspection_tool class="EmptyClass" enabled="false" level="WARNING" enabled_by_default="false">
+  <inspection_tool class="EmptyClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignorableAnnotations">
       <value>
         <item value="com.gwtplatform.dispatch.annotation.GenEvent" />
@@ -220,13 +220,10 @@
     <option name="ignoreThrowables" value="true" />
   </inspection_tool>
   <inspection_tool class="EmptyFinallyBlock" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="EmptyMethod" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="EmptyStatementBody" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="m_reportEmptyBlocks" value="true" />
-  </inspection_tool>
   <inspection_tool class="EmptyStatementBodyJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_reportEmptyBlocks" value="false" />
   </inspection_tool>
+  <inspection_tool class="EmptySynchronizedStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyTryBlock" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EqualsBetweenInconvertibleTypes" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EqualsWhichDoesntCheckParameterClass" enabled="false" level="WARNING" enabled_by_default="false" />
