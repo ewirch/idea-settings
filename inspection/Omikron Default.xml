@@ -259,11 +259,6 @@
     <option name="m_minLength" value="8" />
     <option name="m_maxLength" value="64" />
   </inspection_tool>
-  <inspection_tool class="EnumeratedConstantNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[A-Z][A-Z_\d]*" />
-    <option name="m_minLength" value="5" />
-    <option name="m_maxLength" value="32" />
-  </inspection_tool>
   <inspection_tool class="EnumerationCanBeIteration" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EqualsAndHashcode" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EqualsCalledOnEnumConstant" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -691,7 +686,6 @@
   <inspection_tool class="NonProtectedConstructorInAbstractClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreNonPublicClasses" value="false" />
   </inspection_tool>
-  <inspection_tool class="NonReproducibleMathCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonSerializableFieldInSerializableClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignorableAnnotations">
       <value />
