@@ -65,7 +65,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>EnumSwitchStatementWhichMissesCases</id>
+            <id>ObjectToString</id>
           </State>
         </selected-state>
       </profile-state>
