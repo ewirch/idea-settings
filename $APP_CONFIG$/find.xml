@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'fff-ui'" />
-    <option name="defaultScopeName" value="Module 'fff-ui'" />
-    <option name="SEARCH_SCOPE" value="Module 'fff-ui'" />
+    <option name="customScope" value="Module 'fact-finder'" />
+    <option name="defaultScopeName" value="Module 'fact-finder'" />
+    <option name="SEARCH_SCOPE" value="Module 'fact-finder'" />
   </component>
 </application>
