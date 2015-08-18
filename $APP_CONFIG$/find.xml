@@ -3,5 +3,18 @@
     <option name="customScope" value="Module 'fact-finder'" />
     <option name="defaultScopeName" value="Module 'fact-finder'" />
     <option name="SEARCH_SCOPE" value="Module 'fact-finder'" />
+    <option name="FILE_MASK" value="*.jsp,*.jspf" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.jsp,*.jspf</mask>
+    </recentFileMasks>
   </component>
 </application>
