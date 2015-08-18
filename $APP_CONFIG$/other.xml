@@ -21,6 +21,9 @@
             <id />
           </State>
           <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
             <id>Code style issuesJava</id>
           </State>
           <State>
@@ -65,7 +68,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ObjectToString</id>
+            <id>StaticMethodOnlyUsedInOneClass</id>
           </State>
         </selected-state>
       </profile-state>
