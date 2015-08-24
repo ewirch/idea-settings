@@ -12,17 +12,5 @@
         <entry key="stats.last.val" value="2" />
       </map>
     </option>
-    <option name="disabled">
-      <map>
-        <entry key="notify.achievements" value="true" />
-      </map>
-    </option>
-    <option name="numvals">
-      <map>
-        <entry key="rebel.idea.log.level" value="4" />
-        <entry key="stats.last.deploy.count" value="50" />
-        <entry key="stats.last.val" value="2" />
-      </map>
-    </option>
   </component>
 </application>
