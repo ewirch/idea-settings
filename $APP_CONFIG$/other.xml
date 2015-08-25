@@ -97,7 +97,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>GwtCssResourceErrors</id>
+            <id>GwtInconsistentSerializableClass</id>
           </State>
         </selected-state>
       </profile-state>
