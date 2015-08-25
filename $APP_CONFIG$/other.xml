@@ -74,6 +74,9 @@
             <id>Data flow issuesJava</id>
           </State>
           <State>
+            <id>General</id>
+          </State>
+          <State>
             <id>Groovy</id>
           </State>
           <State>
@@ -91,7 +94,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ConstantConditions</id>
+            <id>Annotator</id>
           </State>
         </selected-state>
       </profile-state>
