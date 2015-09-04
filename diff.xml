@@ -1,5 +1,5 @@
 <application>
-  <component name="DiffManager">
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
     <enableFiles value="true" />
     <filesTool value="C:\Program Files (x86)\Git\bin\diff.exe" newValue="C:\Program Files (x86)\Git\bin\diff.exe" />
     <mergeToolParameters value="%1 %2 %3 %4" />
