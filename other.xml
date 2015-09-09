@@ -110,6 +110,9 @@
             <id />
           </State>
           <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
             <id>Class metricsJava</id>
           </State>
           <State>
@@ -220,7 +223,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>FieldMayBeFinal</id>
+            <id>MethodOnlyUsedFromInnerClass</id>
           </State>
         </selected-state>
       </profile-state>
