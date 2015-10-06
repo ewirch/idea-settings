@@ -87,7 +87,13 @@
     <scope name="Production" level="WARNING" enabled="true">
       <option name="exceptionsString" value="" />
       <option name="exceptions">
-        <value />
+        <value>
+          <item value="java.lang.Throwable" />
+          <item value="java.lang.Exception" />
+          <item value="java.lang.Error" />
+          <item value="java.lang.RuntimeException" />
+          <item value="java.lang.ClassCastException" />
+        </value>
       </option>
     </scope>
     <option name="exceptionsString" value="" />
@@ -256,7 +262,7 @@
   </inspection_tool>
   <inspection_tool class="EnumeratedClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[A-Z][A-Za-z\d]*" />
-    <option name="m_minLength" value="8" />
+    <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="EnumerationCanBeIteration" enabled="true" level="WARNING" enabled_by_default="true" />

@@ -223,7 +223,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>MethodOnlyUsedFromInnerClass</id>
+            <id>ReturnOfCollectionField</id>
           </State>
         </selected-state>
       </profile-state>
