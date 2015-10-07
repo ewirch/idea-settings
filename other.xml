@@ -256,7 +256,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>AutoCloseableResource</id>
+            <id>InterfaceMayBeAnnotatedFunctional</id>
           </State>
         </selected-state>
       </profile-state>
