@@ -2,6 +2,10 @@
   <action id="Macro.Save Actions">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="SaveAll" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
