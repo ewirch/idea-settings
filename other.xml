@@ -256,7 +256,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>InterfaceMayBeAnnotatedFunctional</id>
+            <id>BusyWait</id>
           </State>
         </selected-state>
       </profile-state>
