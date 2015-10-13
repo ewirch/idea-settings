@@ -110,6 +110,9 @@
             <id />
           </State>
           <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
             <id>Code style issuesJava</id>
           </State>
           <State>
@@ -120,12 +123,6 @@
           </State>
           <State>
             <id>Groovy</id>
-          </State>
-          <State>
-            <id>Inheritance issuesJava</id>
-          </State>
-          <State>
-            <id>JSP Inspections</id>
           </State>
           <State>
             <id>Java</id>
@@ -152,12 +149,20 @@
             <id>Probable bugsJavaScript</id>
           </State>
           <State>
-            <id>Threading issuesJava</id>
+            <id>SQL</id>
           </State>
           <State>
-            <id>Verbose or redundant code constructsJava</id>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>NullableProblems</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
