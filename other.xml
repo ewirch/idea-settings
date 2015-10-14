@@ -110,70 +110,73 @@
             <id />
           </State>
           <State>
+            <id>AOP</id>
+          </State>
+          <State>
             <id>Abstraction issuesJava</id>
           </State>
           <State>
-            <id>Assignment issuesJava</id>
+            <id>Annotations verifyingGroovy</id>
           </State>
           <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Class metricsJava</id>
+            <id>ArquillianJava</id>
           </State>
           <State>
             <id>Class structureJava</id>
           </State>
           <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
             <id>Code style issuesJava</id>
           </State>
           <State>
-            <id>Control FlowGroovy</id>
+            <id>CodeSpring CoreSpring</id>
           </State>
           <State>
-            <id>Control flow issuesJava</id>
+            <id>Concurrency annotation issuesJava</id>
           </State>
           <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Data flow issuesGroovy</id>
-          </State>
-          <State>
-            <id>Declaration redundancyGroovy</id>
+            <id>Data flow issuesJava</id>
           </State>
           <State>
             <id>Declaration redundancyJava</id>
           </State>
           <State>
-            <id>Dependency issuesJava</id>
-          </State>
-          <State>
-            <id>Error handlingGroovy</id>
-          </State>
-          <State>
-            <id>Error handlingJava</id>
-          </State>
-          <State>
-            <id>Error handlingJavaScript</id>
+            <id>Encapsulation issuesJava</id>
           </State>
           <State>
             <id>General</id>
           </State>
           <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
           </State>
           <State>
             <id>Groovy</id>
           </State>
           <State>
-            <id>ImportsJava</id>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
           </State>
           <State>
             <id>Internationalization issuesJava</id>
           </State>
           <State>
-            <id>J2ME issuesJava</id>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
           </State>
           <State>
             <id>Java</id>
@@ -188,25 +191,16 @@
             <id>JavaScript</id>
           </State>
           <State>
-            <id>JavaScript function metricsJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript validity issuesJavaScript</id>
+            <id>Javadoc issuesJava</id>
           </State>
           <State>
             <id>Kotlin</id>
           </State>
           <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
             <id>Logging issuesJava</id>
-          </State>
-          <State>
-            <id>Method MetricsGroovy</id>
-          </State>
-          <State>
-            <id>Method metricsJava</id>
-          </State>
-          <State>
-            <id>Modularization issuesJava</id>
           </State>
           <State>
             <id>Naming ConventionsGroovy</id>
@@ -215,43 +209,19 @@
             <id>Naming conventionsJava</id>
           </State>
           <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>Packaging issuesJava</id>
-          </State>
-          <State>
-            <id>Performance issuesJava</id>
+            <id>Pattern Validation</id>
           </State>
           <State>
             <id>Potentially confusing code constructsGroovy</id>
           </State>
           <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsCSS</id>
-          </State>
-          <State>
-            <id>Probable bugsGroovy</id>
+            <id>Probable bugs</id>
           </State>
           <State>
             <id>Probable bugsJava</id>
           </State>
           <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Properties Files</id>
-          </State>
-          <State>
-            <id>RELAX NG</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
-          <State>
-            <id>Security issuesJava</id>
+            <id>Properties FilesJava</id>
           </State>
           <State>
             <id>Serialization issuesJava</id>
@@ -260,32 +230,15 @@
             <id>Spring</id>
           </State>
           <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
             <id>Spring CoreSpring</id>
           </State>
           <State>
-            <id>Threading issuesGroovy</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
-          </State>
-          <State>
-            <id>Visibility issuesJava</id>
-          </State>
-          <State>
-            <id>XML</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-          <State>
-            <id>XSLT</id>
+            <id>XMLSpring CoreSpring</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>NullableProblems</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
