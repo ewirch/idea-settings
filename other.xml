@@ -149,6 +149,9 @@
             <id>Probable bugsJavaScript</id>
           </State>
           <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
             <id>SQL</id>
           </State>
           <State>
@@ -160,7 +163,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>NullableProblems</id>
+            <id>AutoCloseableResource</id>
           </State>
         </selected-state>
       </profile-state>
