@@ -155,6 +155,9 @@
             <id>SQL</id>
           </State>
           <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
             <id>Spring</id>
           </State>
           <State>
@@ -163,7 +166,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>AutoCloseableResource</id>
+            <id>JDBCExecuteWithNonConstantString</id>
           </State>
         </selected-state>
       </profile-state>
