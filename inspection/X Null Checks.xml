@@ -1,5 +1,5 @@
-<inspections profile_name="Null Checks" version="1.0">
-  <option name="myName" value="Null Checks" />
+<inspections profile_name="X Null Checks" version="1.0">
+  <option name="myName" value="X Null Checks" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="AbstractMethodOverridesAbstractMethod" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreAnnotations" value="true" />
