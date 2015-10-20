@@ -173,6 +173,9 @@
             <id>RELAX NG</id>
           </State>
           <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
             <id>XML</id>
           </State>
           <State>
@@ -181,7 +184,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>unused</id>
+            <id>VolatileLongOrDoubleField</id>
           </State>
         </selected-state>
       </profile-state>
