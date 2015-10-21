@@ -391,7 +391,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant inspections</id>
+            <id>BadExceptionDeclared</id>
           </State>
         </selected-state>
       </profile-state>
