@@ -6,7 +6,7 @@
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CARET_ROW_COLOR" value="f5f5f5" />
   </colors>
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">
