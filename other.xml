@@ -113,7 +113,18 @@
       </profile-state>
     </entry>
     <entry key="Omikron Default">
-      <profile-state />
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
       <profile-state>
