@@ -119,36 +119,57 @@
             <id />
           </State>
           <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
             <id>Code style issuesJava</id>
           </State>
           <State>
-            <id>Data flow issuesJava</id>
+            <id>Control flow issuesJava</id>
           </State>
           <State>
-            <id>Initialization issuesJava</id>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Groovy</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Logging issuesJava</id>
+            <id>Java language level migration aidsJava</id>
           </State>
           <State>
-            <id>Memory issuesJava</id>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
           </State>
           <State>
             <id>Probable bugsJava</id>
           </State>
           <State>
-            <id>Threading issuesJava</id>
+            <id>Probable bugsJavaScript</id>
           </State>
           <State>
-            <id>Visibility issuesJava</id>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant inspections</id>
+            <id>NullableProblems</id>
           </State>
         </selected-state>
       </profile-state>
