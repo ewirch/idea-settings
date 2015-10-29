@@ -119,52 +119,10 @@
             <id />
           </State>
           <State>
-            <id>Assignment issuesJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>Control flow issuesJava</id>
-          </State>
-          <State>
-            <id>Error handlingJava</id>
-          </State>
-          <State>
-            <id>Groovy</id>
-          </State>
-          <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>Probable bugsGroovy</id>
-          </State>
-          <State>
             <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -543,7 +501,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>NullableProblems</id>
+            <id>Annotator</id>
           </State>
         </selected-state>
       </profile-state>
@@ -607,6 +565,9 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+  </component>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />

@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="GXT" />
+    <option name="defaultScopeName" value="GXT" />
+    <option name="SEARCH_SCOPE" value="GXT" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

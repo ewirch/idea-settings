@@ -2,5 +2,5 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="java.awt" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="X Null Checks" />
+  <component name="DaemonCodeAnalyzerSettings" profile="Omikron Default" />
 </application>
