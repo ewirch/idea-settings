@@ -119,17 +119,30 @@
             <id />
           </State>
           <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Probable bugsJava</id>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XML</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>NullableProblems</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
