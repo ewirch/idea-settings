@@ -131,6 +131,9 @@
             <id>JavaScript</id>
           </State>
           <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
             <id>Serialization issuesJava</id>
           </State>
           <State>
@@ -145,7 +148,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant inspections</id>
+            <id>ThrowableResultOfMethodCallIgnored</id>
           </State>
         </selected-state>
       </profile-state>
