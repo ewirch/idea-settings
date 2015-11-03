@@ -1,4 +1,13 @@
 <application>
+  <component name="ActionMacroManager">
+    <macro name="Save Actions">
+      <action id="InsertFinalModifier" />
+      <action id="InsertOverrideModifier" />
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
   <component name="com.intellij.ide.actionMacro.ActionMacroManager">
     <macro name="Save Actions">
       <action id="InsertFinalModifier" />

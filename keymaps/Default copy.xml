@@ -6,9 +6,6 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
-  <action id="Macro.Save Actions">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
