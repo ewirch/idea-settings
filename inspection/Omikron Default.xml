@@ -220,8 +220,8 @@
   </inspection_tool>
   <inspection_tool class="DateToString" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DeclareCollectionAsInterface" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreLocalVariables" value="false" />
-    <option name="ignorePrivateMethodsAndFields" value="false" />
+    <option name="ignoreLocalVariables" value="true" />
+    <option name="ignorePrivateMethodsAndFields" value="true" />
   </inspection_tool>
   <inspection_tool class="DefaultNotLastCaseInSwitch" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DivideByZero" enabled="true" level="WARNING" enabled_by_default="true" />
