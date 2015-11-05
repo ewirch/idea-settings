@@ -245,12 +245,15 @@
             <id>Spring CoreSpring</id>
           </State>
           <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
             <id>XMLSpring CoreSpring</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant inspections</id>
+            <id>BusyWait</id>
           </State>
         </selected-state>
       </profile-state>
