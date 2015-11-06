@@ -1,0 +1,8 @@
+<templateSet group="Edus">
+  <template name="test" value="@org.junit.Test&#10;public void $M_NAME$() {&#10;&#9;$END$&#10;}" description="Create JUnit4 test method" toReformat="false" toShortenFQNames="true">
+    <variable name="M_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
