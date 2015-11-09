@@ -5,6 +5,10 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HTML" injector-id="java">
+      <display-name>XTemplate.value (com.sencha.gxt.core.client.XTemplates)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("com.sencha.gxt.core.client.XTemplates.XTemplate")]]></place>
+    </injection>
     <injection language="GWT-CSS" injector-id="xml">
       <display-name>div/@style</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
