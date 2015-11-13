@@ -128,6 +128,9 @@
             <id>J2ME issuesJava</id>
           </State>
           <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
             <id>Java</id>
           </State>
           <State>
@@ -145,7 +148,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Singleton</id>
+            <id>ParameterizedParametersStaticCollection</id>
           </State>
         </selected-state>
       </profile-state>
