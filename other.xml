@@ -119,33 +119,63 @@
             <id />
           </State>
           <State>
-            <id>Code style issuesJava</id>
+            <id>Ant inspections</id>
           </State>
           <State>
-            <id>Control flow issuesJava</id>
+            <id>GeneralJavaScript</id>
           </State>
           <State>
-            <id>Inheritance issuesJava</id>
+            <id>Google Web Toolkit issues</id>
           </State>
           <State>
-            <id>Internationalization issuesJava</id>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Performance issuesJava</id>
+            <id>JavaScript</id>
           </State>
           <State>
-            <id>Probable bugsJava</id>
+            <id>Javadoc issuesJava</id>
           </State>
           <State>
-            <id>toString() issuesJava</id>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XML</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>FieldNotUsedInToString</id>
+            <id>XmlInvalidId</id>
           </State>
         </selected-state>
       </profile-state>
@@ -597,6 +627,8 @@
   </component>
   <component name="GwtSdkManager">
     <gwt-sdk-list>
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
