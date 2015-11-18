@@ -613,9 +613,6 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
-  <component name="DependencyUISettings">
-    <option name="UI_FILTER_LEGALS" value="true" />
-  </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
     <option name="ITN_PASSWORD_CRYPT" value="" />
