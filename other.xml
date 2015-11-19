@@ -122,6 +122,9 @@
             <id>Ant inspections</id>
           </State>
           <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
@@ -143,6 +146,9 @@
             <id>Java</id>
           </State>
           <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
@@ -150,6 +156,9 @@
           </State>
           <State>
             <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
           </State>
           <State>
             <id>Probable bugsGroovy</id>
@@ -161,6 +170,9 @@
             <id>SQL</id>
           </State>
           <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
             <id>Spring</id>
           </State>
           <State>
@@ -168,6 +180,9 @@
           </State>
           <State>
             <id>TypeScript</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
           </State>
           <State>
             <id>XML</id>
