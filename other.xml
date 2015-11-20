@@ -14,6 +14,29 @@
         </selected-state>
       </profile-state>
     </entry>
+    <entry key="Lambda">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>StringBufferReplaceableByStringBuilder</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
     <entry key="Null Checks">
       <profile-state>
         <expanded-state>
@@ -151,21 +174,18 @@
             <id />
           </State>
           <State>
-            <id>Concurrency annotation issuesJava</id>
-          </State>
-          <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Probable bugsJava</id>
+            <id>Java language level migration aidsJava</id>
           </State>
           <State>
-            <id>Security issuesJava</id>
+            <id>Serialization issuesJava</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Contract</id>
+            <id>StringBufferReplaceableByStringBuilder</id>
           </State>
         </selected-state>
       </profile-state>
