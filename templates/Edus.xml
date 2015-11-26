@@ -14,4 +14,15 @@
       <option name="JAVA_STRING" value="true" />
     </context>
   </template>
+  <template name="{@code}" value="{@code $SELECTION$}$END$" description="Surround with {@code}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="{@link}" value="{@link $LINK$}" description="Add link" toReformat="false" toShortenFQNames="true">
+    <variable name="LINK" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
