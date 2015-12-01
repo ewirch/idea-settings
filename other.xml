@@ -252,6 +252,9 @@
             <id>Naming conventionsJava</id>
           </State>
           <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
             <id>Performance issuesJava</id>
           </State>
           <State>
@@ -275,7 +278,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>GroovyVariableCanBeFinal</id>
+            <id>ImplicitNumericConversion</id>
           </State>
         </selected-state>
       </profile-state>
