@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Omikron Default" />
 </application>
