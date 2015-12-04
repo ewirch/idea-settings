@@ -164,10 +164,13 @@
           <State>
             <id>Maven</id>
           </State>
+          <State>
+            <id>XML</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>MavenRedundantGroupId</id>
+            <id>XmlPathReference</id>
           </State>
         </selected-state>
       </profile-state>
