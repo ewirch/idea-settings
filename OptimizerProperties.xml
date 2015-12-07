@@ -1,0 +1,22 @@
+<application>
+  <component name="IntelliJOptimizer">
+    <option name="installationGuid" value="Gujl17RdNrebgexBrQ61yAosBiS6ReHuG5e95u7sWcU=" />
+    <option name="installationTimestamp" value="1449467097781" />
+    <option name="firstBootTime" value="126386314044" />
+    <option name="currentBootTime" value="126386314044" />
+    <option name="isSignedUp" value="true" />
+    <option name="isJRebelPresentNotificationSent" value="true" />
+    <option name="currentlyPerformedActivities">
+      <list>
+        <option value="Memory Parameters" />
+        <option value="Class Verification" />
+      </list>
+    </option>
+    <option name="company" value="Omikron Data Quality GmbH" />
+    <option name="email" value="ew@omikron.net" />
+    <option name="firstName" value="Eduard" />
+    <option name="lastName" value="Wirch" />
+    <option name="phoneNumber" value="+49 7231 52446652" />
+    <option name="getDevelopersInCompany" value="10+" />
+  </component>
+</application>
