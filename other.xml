@@ -159,6 +159,9 @@
             <id>Initialization issuesJava</id>
           </State>
           <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
             <id>Java</id>
           </State>
           <State>
@@ -170,7 +173,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>XmlPathReference</id>
+            <id>StringTokenizer</id>
           </State>
         </selected-state>
       </profile-state>
