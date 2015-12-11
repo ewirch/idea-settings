@@ -156,26 +156,45 @@
             <id />
           </State>
           <State>
-            <id>Initialization issuesJava</id>
+            <id>Abstraction issuesJava</id>
           </State>
           <State>
-            <id>Internationalization issuesJava</id>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Maven</id>
+            <id>Kotlin</id>
           </State>
           <State>
-            <id>XML</id>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>StringTokenizer</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
