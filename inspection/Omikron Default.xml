@@ -773,6 +773,7 @@
     <option name="ignoreEnums" value="false" />
     <option name="ignorableAnnotations">
       <value>
+        <item value="org.junit.experimental.theories.DataPoint" />
         <item value="org.junit.runners.Parameterized.Parameter" />
       </value>
     </option>
