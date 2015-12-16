@@ -5,6 +5,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans.impl.store.Locale" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Omikron Default" />
 </application>

@@ -183,6 +183,9 @@
             <id>Java</id>
           </State>
           <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
             <id>Kotlin</id>
           </State>
           <State>
@@ -200,7 +203,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>NullableProblems</id>
+            <id>Convert2streamapi</id>
           </State>
         </selected-state>
       </profile-state>
