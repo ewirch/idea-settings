@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Eclipse code formatter info" displayType="NONE" shouldLog="false" />
     <notification groupId="Error Report" displayType="NONE" />
+    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
   </component>
 </application>
