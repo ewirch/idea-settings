@@ -165,6 +165,9 @@
             <id>Code style issuesJava</id>
           </State>
           <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
             <id>Groovy</id>
           </State>
           <State>
@@ -203,7 +206,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Convert2streamapi</id>
+            <id>WeakerAccess</id>
           </State>
         </selected-state>
       </profile-state>
