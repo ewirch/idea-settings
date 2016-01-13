@@ -162,6 +162,9 @@
             <id>Concurrency annotation issuesJava</id>
           </State>
           <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
             <id>Java</id>
           </State>
           <State>
@@ -176,7 +179,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Since15</id>
+            <id>unused</id>
           </State>
         </selected-state>
       </profile-state>
