@@ -165,6 +165,9 @@
             <id>Java</id>
           </State>
           <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
             <id>Logging issuesJava</id>
           </State>
           <State>
@@ -173,7 +176,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>StaticMethodOnlyUsedInOneClass</id>
+            <id>Since15</id>
           </State>
         </selected-state>
       </profile-state>
