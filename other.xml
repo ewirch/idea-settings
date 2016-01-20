@@ -179,10 +179,13 @@
           <State>
             <id>Method metricsJava</id>
           </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>GwtUiXmlReferences</id>
+            <id>DynamicRegexReplaceableByCompiledPattern</id>
           </State>
         </selected-state>
       </profile-state>
