@@ -182,10 +182,13 @@
           <State>
             <id>Performance issuesJava</id>
           </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>DynamicRegexReplaceableByCompiledPattern</id>
+            <id>PublicStaticCollectionField</id>
           </State>
         </selected-state>
       </profile-state>
