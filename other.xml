@@ -156,44 +156,39 @@
             <id />
           </State>
           <State>
-            <id>Abstraction issuesJava</id>
+            <id>Class structureJava</id>
           </State>
           <State>
-            <id>Concurrency annotation issuesJava</id>
+            <id>Cloning issuesJava</id>
           </State>
           <State>
-            <id>Declaration redundancyJava</id>
+            <id>Code style issuesJava</id>
           </State>
           <State>
-            <id>Google Web Toolkit issues</id>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Java language level migration aidsJava</id>
+            <id>Java EE issues</id>
           </State>
           <State>
             <id>Logging issuesJava</id>
           </State>
           <State>
-            <id>Method metricsJava</id>
+            <id>Memory issuesJava</id>
           </State>
           <State>
-            <id>Performance issuesJava</id>
+            <id>Serialization issuesJava</id>
           </State>
           <State>
-            <id>Probable bugs</id>
-          </State>
-          <State>
-            <id>Security issuesJava</id>
+            <id>Threading issuesJava</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Lombok</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
@@ -651,6 +646,8 @@
   </component>
   <component name="GwtSdkManager">
     <gwt-sdk-list>
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
