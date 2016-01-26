@@ -156,12 +156,29 @@
             <id />
           </State>
           <State>
-            <id>Manifest</id>
+            <id>Abstraction issuesJava</id>
           </State>
           <State>
-            <id>Spelling</id>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
