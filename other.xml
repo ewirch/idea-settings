@@ -168,6 +168,9 @@
             <id>Kotlin</id>
           </State>
           <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
             <id>Performance issuesJava</id>
           </State>
           <State>
@@ -176,7 +179,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant inspections</id>
+            <id>CastThatLosesPrecision</id>
           </State>
         </selected-state>
       </profile-state>
