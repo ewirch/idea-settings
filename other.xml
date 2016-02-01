@@ -629,9 +629,9 @@
     </filter>
   </component>
   <component name="ErrorReportConfigurable">
-    <option name="ITN_LOGIN" value="" />
-    <option name="ITN_PASSWORD_CRYPT" value="" />
-    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="ITN_LOGIN" value="ewirch" />
+    <option name="ITN_PASSWORD_CRYPT" value="U2lmcVh1cmUwO0xhYnI=" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
