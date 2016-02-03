@@ -159,6 +159,9 @@
             <id>Abstraction issuesJava</id>
           </State>
           <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
             <id>Inheritance issuesJava</id>
           </State>
           <State>
@@ -176,10 +179,13 @@
           <State>
             <id>Probable bugsJava</id>
           </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>CastThatLosesPrecision</id>
+            <id>NonFinalClone</id>
           </State>
         </selected-state>
       </profile-state>
