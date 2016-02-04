@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
+    <option name="customScope" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\ui\configuration\suggest\SuggestWhiteListConfigurationServiceImpl.java'" />
+    <option name="defaultScopeName" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\ui\configuration\suggest\SuggestWhiteListConfigurationServiceImpl.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="SEARCH_SCOPE" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\ui\configuration\suggest\SuggestWhiteListConfigurationServiceImpl.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
