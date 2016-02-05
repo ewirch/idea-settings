@@ -660,12 +660,8 @@
     <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
   </component>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
-  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
-    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
