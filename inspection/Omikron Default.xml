@@ -971,7 +971,9 @@
     <option name="m_onlyLookAtBlocks" value="true" />
   </inspection_tool>
   <inspection_tool class="TooBroadThrows" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Production" level="WARNING" enabled="true" />
+    <scope name="Production" level="WARNING" enabled="true">
+      <option name="ignoreThrown" value="true" />
+    </scope>
   </inspection_tool>
   <inspection_tool class="TransientFieldInNonSerializableClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TransientFieldNotInitialized" enabled="true" level="WARNING" enabled_by_default="true" />
