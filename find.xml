@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\backup\BackupEntry.java'" />
-    <option name="defaultScopeName" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\backup\BackupEntry.java'" />
+    <option name="customScope" value="Project 'analytics-parent'" />
+    <option name="defaultScopeName" value="Project 'analytics-parent'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\backup\BackupEntry.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'analytics-parent'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
