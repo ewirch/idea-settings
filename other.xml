@@ -159,16 +159,16 @@
             <id>Abstraction issuesJava</id>
           </State>
           <State>
-            <id>Ant inspections</id>
+            <id>Assignment issuesGroovy</id>
           </State>
           <State>
-            <id>Cloning issuesJava</id>
+            <id>Assignment issuesJava</id>
           </State>
           <State>
-            <id>Control flow issuesJava</id>
+            <id>Assignment issuesJavaScript</id>
           </State>
           <State>
-            <id>Control flow issuesJavaScript</id>
+            <id>Code style issuesJava</id>
           </State>
           <State>
             <id>Declaration redundancyJava</id>
@@ -180,92 +180,48 @@
             <id>General</id>
           </State>
           <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
             <id>Groovy</id>
           </State>
           <State>
-            <id>Inheritance issuesJava</id>
-          </State>
-          <State>
             <id>Initialization issuesJava</id>
           </State>
           <State>
-            <id>Internationalization issuesJava</id>
-          </State>
-          <State>
-            <id>JPA issues</id>
-          </State>
-          <State>
-            <id>JSON</id>
+            <id>J2ME issuesJava</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Java EE issues</id>
+            <id>Java language level migration aidsJava</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>JavaScript validity issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>Maven</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
+            <id>Naming conventionsJava</id>
           </State>
           <State>
             <id>Performance issuesJava</id>
           </State>
           <State>
-            <id>Probable bugsJava</id>
+            <id>Potentially confusing code constructsGroovy</id>
           </State>
           <State>
-            <id>Properties Files</id>
-          </State>
-          <State>
-            <id>SQL</id>
+            <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
             <id>Security issuesJava</id>
           </State>
           <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
-          </State>
-          <State>
-            <id>Struts</id>
-          </State>
-          <State>
-            <id>Struts 1Struts</id>
-          </State>
-          <State>
-            <id>Validity issuesGroovy</id>
-          </State>
-          <State>
-            <id>XML</id>
-          </State>
-          <State>
-            <id>XMLSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>XSLT</id>
+            <id>toString() issuesJava</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>TooBroadThrows</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
