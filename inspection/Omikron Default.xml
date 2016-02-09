@@ -12,7 +12,14 @@
   <inspection_tool class="AbstractMethodWithMissingImplementations" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AccessToNonThreadSafeStaticFieldFromInstance" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="nonThreadSafeClasses">
-      <value />
+      <value>
+        <item value="java.text.SimpleDateFormat" />
+        <item value="java.text.MessageFormat" />
+        <item value="java.text.DecimalFormat" />
+        <item value="java.text.ChoiceFormat" />
+        <item value="java.util.Calendar" />
+        <item value="java.text.Format" />
+      </value>
     </option>
     <option name="nonThreadSafeTypes" value="" />
   </inspection_tool>
