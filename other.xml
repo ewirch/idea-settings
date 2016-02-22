@@ -402,6 +402,11 @@
             <id>XSLT</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Omikron Default (copy)">
