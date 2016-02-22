@@ -228,10 +228,16 @@
             <id>DeclarationGroovy</id>
           </State>
           <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
             <id>Error handlingJava</id>
           </State>
           <State>
             <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
           </State>
           <State>
             <id>GeneralJavaScript</id>
@@ -348,6 +354,9 @@
             <id>Probable bugsJavaScript</id>
           </State>
           <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
             <id>RELAX NG</id>
           </State>
           <State>
@@ -364,6 +373,9 @@
           </State>
           <State>
             <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
           </State>
           <State>
             <id>Spring BootSpring</id>
