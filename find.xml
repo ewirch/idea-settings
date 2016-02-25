@@ -3,9 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\suggest\Import.java'" />
     <option name="defaultScopeName" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\suggest\Import.java'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\src\git\fff\FACT-Finder\src\main\java\de\factfinder\suggest\Import.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
