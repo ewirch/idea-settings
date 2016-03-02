@@ -210,6 +210,9 @@
             <id>RELAX NG</id>
           </State>
           <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
             <id>XML</id>
           </State>
           <State>
@@ -218,7 +221,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>UnusedLibrary</id>
+            <id>JDBCExecuteWithNonConstantString</id>
           </State>
         </selected-state>
       </profile-state>
