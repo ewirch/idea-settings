@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File 'C:\src\git\fff-7.1\fff-suggest\src\test\java\de\factfinder\suggest\indexer\SearchDatabaseProviderTest.java'" />
+    <option name="defaultScopeName" value="File 'C:\src\git\fff-7.1\fff-suggest\src\test\java\de\factfinder\suggest\indexer\SearchDatabaseProviderTest.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\src\git\fff-7.1\fff-suggest\src\test\java\de\factfinder\suggest\indexer\SearchDatabaseProviderTest.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
